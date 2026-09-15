@@ -285,3 +285,4 @@
     color: #fff !important;
     text-decoration: none !important
 }
+.door__container .door__sales{display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;min-height:68px;padding:8px!important;border-radius:6px!important;font-family:Arial,sans-serif;line-height:1.1;white-space:nowrap}
